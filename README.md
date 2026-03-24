@@ -16,6 +16,7 @@ The `LDB` is a board with 10 LEDs and a 7-Segment display with a [MC14543](#addi
 | Board     | [pdf](https://github.com/0x007E/ldb/releases/latest/download/pcb.pdf) / [cadlab](https://cadlab.io/project/30142/main/files)                         | Board file      |
 | Drill     | [pdf](https://github.com/0x007E/ldb/releases/latest/download/drill.pdf)                                                                              | Drill file      |
 | PCB       | [zip](https://github.com/0x007E/ldb/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/ldb/releases/latest/download/kicad.tar.gz) | KiCAD/Gerber/BoM/Drill files |
+| Mechanical | [zip](https://github.com/0x007E/ldb/releases/latest/download/freecad.zip) / [tar](https://github.com/0x007E/ldb/releases/latest/download/freecad.tar.gz) | FreeCAD/Housing and exported step/stl files |
 
 # Hardware
 
