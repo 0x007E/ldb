@@ -24,9 +24,9 @@ preflight:
   run_erc: true
   run_drc: true
   filters:
-    - filter: 'Isolated copper fill'
-      error: 'isolated_copper'
-      regex: 'Isolated copper fill'
+    # - filter: 'Isolated copper fill'
+    #   error: 'isolated_copper'
+    #   regex: 'Isolated copper fill'
     - filter: 'Silkscreen clipped by solder mask'
       error: 'silk_over_copper'
       regex: 'Silkscreen clipped by solder mask'
