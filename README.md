@@ -2,7 +2,7 @@
 
 # `LDB` - LED Development Board
 
-The `LDB` is a board with 10 LEDs and a 7-Segment display with a [MC14543](#additional-information) or any other `BCD/7-Segment` converter. The board itself can be driven with a voltage from `3-15V`. The board offers the possibility to convert a bcd number to a 7-segment display or control a set of leds by driving buttons, switches or any other logic board elements.
+The `LDB` is a board with 10 LEDs and a 7-Segment display with a [MC14543](#additional-information) or any other `BCD/7-Segment` converter that meets the pin requirements. The board itself can be driven from `3` to `15V`. The board offers the possibility to convert a bcd number to a 7-segment display or control a set of leds by driving buttons, switches or any other logic board elements.
 
 | Experience  | Level                                                                               |
 |:------------|:-----------------------------------------------------------------------------------:|
